@@ -1,4 +1,4 @@
-A front end developer who realy loves ML and DL
+A front-end developer who really loves ML and DL
 
 ## SKILLS
 <div align="center">
